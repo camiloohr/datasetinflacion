@@ -21,7 +21,7 @@ Este proyecto realiza un análisis de datos sobre la inflación en Panamá desde
    git clone https://github.com/camiloohr/datasetinflacion.git
 
 2. Navega al directorio de tu repositorio:
-cd tu_repositorio
+cd datasetinflacion
 
 3. Instala los paquetes necesarios:
 pip install pandas matplotlib scipy Pillow
