@@ -20,7 +20,7 @@ Este proyecto realiza un análisis de datos sobre la inflación en Panamá desde
    ```bash
    git clone https://github.com/camiloohr/datasetinflacion.git
 
-2. Navega al directorio de tu repositorio:
+2. Navega al directorio del repositorio:
 cd datasetinflacion
 
 3. Instala los paquetes necesarios:
